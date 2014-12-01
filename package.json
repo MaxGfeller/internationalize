@@ -1,0 +1,30 @@
+{
+  "name": "internationalize",
+  "version": "1.0.0",
+  "description": "Browserify transform for international",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxgfeller/internationalize"
+  },
+  "keywords": [
+    "international",
+    "simple",
+    "language",
+    "switching",
+    "i18n",
+    "browserify"
+  ],
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxgfeller/internationalize/issues"
+  },
+  "homepage": "https://github.com/maxgfeller/internationalize",
+  "dependencies": {
+    "through2": "^0.6.3"
+  }
+}
